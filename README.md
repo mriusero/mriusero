@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there !
 
-<!--
-**mriusero/mriusero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 About me
+Ingénieur généraliste de formation, passionné par la performance opérationnelle et après plusieurs années en industrie aéronautique, 
+je m'investis aujourd'hui en Data Analytics pour acquérir de nouveaux leviers d'optimisations. 
 
-Here are some ideas to get you started:
+### 🔧 Skills
+Langages: [Python, Scala]
+Frameworks: [PyCharm, IntelliJ]
+Libraries: [Streamlit, Numpy, Sklearn, Matplotlib, Seaborn, Plotly]
+Outils: [Git, Jupyter]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+Email: [marius.ayrault@outlook.com]
+LinkedIn: [https://www.linkedin.com/in/marius-ayrault]
+
+
+
