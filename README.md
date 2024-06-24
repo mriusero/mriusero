@@ -1,7 +1,5 @@
-## Hi there !
-
 ### 🌱 About me
-    Ingénieur généraliste de formation et passionné par la performance opérationnelle,
+    Ingénieur généraliste passionné par la performance opérationnelle, 
     je m'investis aujourd'hui en Data Analytics pour acquérir de nouveaux leviers d'optimisations. 
 
 ### ⚡ Skills
