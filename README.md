@@ -1,5 +1,5 @@
 ### 🌱 About me
-    Student at Sorbonne Data Anlytics 
+    Sorbonne Data Anlytics Student
 
 ### ✉️ How to reach me
 **LinkedIn:** https://www.linkedin.com/in/marius-ayrault
