@@ -1,7 +1,7 @@
-### 🌱 About me
-    Sorbonne Data Anlytics Student
+### About me
+    Sorbonne Data Analytics Student
 
-### ✉️ How to reach me
+### How to reach me
 **LinkedIn:** https://www.linkedin.com/in/marius-ayrault
 
 
