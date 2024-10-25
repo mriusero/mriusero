@@ -14,7 +14,7 @@ Led an **international team** for the **Rafale Program** at Dassault Aviation, o
 Driven by a deep interest in **data-driven** innovation, I evolved from an **industrial engineering** role focused on production process optimization to data science and software development to address modern industry challenges. This dual expertise allows me to create solutions that merge **operational rigor** with **analytical power**. By applying data science to industrial contexts, I develop models and tools that enhance decision-making, reduce inefficiencies, and generate measurable value.
 ## 💻 Tech Stack & Core Competencies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=dark&hide=Jupyter%20Notebook,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css)
 
 ###  ⚡️ Technologies & Frameworks
 - **Data Science & Machine Learning**: Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras
@@ -33,16 +33,16 @@ Driven by a deep interest in **data-driven** innovation, I evolved from an **ind
 4. **MLOps (Machine Learning Operations)**: End-to-end machine learning pipelines and CI/CD for robust model lifecycle management.
 5. **Data Engineering & Big Data**: Creation of optimized data flows and infrastructure using big data tools and cloud solutions.
 
----
+
 
 ## 🔍 Future Exploration Areas
 
 As a lifelong learner, I'm exploring the impact of blockchain on decentralization and secure data transfer, and quantum computing for faster, more accurate predictive models in complex systems.
 
----
+
 ## 👾️ Let's Connect!
 Thank's for visiting my profile, feel free also to watch my projects. I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights—let’s connect!
 
 **Fun Fact**: I'm a huge fan of **Formula 1** and **aerospace** in general. I love the thrill of speed and the precision of engineering that goes into creating these incredible machines.
 
----
+
