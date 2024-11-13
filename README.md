@@ -4,7 +4,7 @@ I'm a **general engineer**, **data scientist**, and **developer** with a passion
 
 | Streak | Stats | Langs
 | ------------- | ------------ | --------- |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriusero&theme=tokyonight" alt="GitHub Streak"> | <img src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=tokyonight" alt="GitHub Stats"> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html,css)
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriusero&theme=chartreuse-dark" alt="GitHub Streak"> | <img src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook,html,css)
 
 
 ## 🛠 Expertise in Engineering & Project Management
