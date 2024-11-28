@@ -2,6 +2,8 @@
 
 I'm a **general engineer**, **data scientist**, and **developer** with a passion for building impactful, scalable solutions that drive real-world impact and innovation. My journey started in the aerospace industry with Safran Group, where I developed solid skills in industrialization and project management. Over time, my curiosity led me to explore data science and software development, where I now specialize in creating data-driven solutions to optimize operations and generate value in industrial settings.
 
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriusero&theme=chartreuse_dark)
+
 | Streak | Stats | Langs
 | ------------- | ------------ | --------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriusero&theme=chartreuse-dark" alt="GitHub Streak"> | <img src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook,html,css)
@@ -48,13 +50,3 @@ As a lifelong learner, I'm exploring the impact of blockchain on decentralizatio
 Thank's for visiting my profile, feel free also to watch my projects. I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights—let’s connect!
 
 **Fun Fact**: I'm a huge fan of **Formula 1** and **aerospace** in general. I love the thrill of speed and the precision of engineering that goes into creating these incredible machines.
-
-<img src="https://komarev.com/ghpvc/?username=mriusero&color=blue" alt="Profile views">
-
-
-
-
-
-
-
-
