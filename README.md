@@ -16,44 +16,26 @@ I'm a **general engineer**, **data scientist**, and **developer** passionate abo
 ## 🥷🏼 Transition to Data Science & Software Development
 Driven by a deep interest in **data-driven** innovation, I evolved to data science and software development to address modern industry challenges. This dual expertise allows me to create solutions that merge **operational rigor** with **analytical power**. By applying data science with industrialization knowledges, I develop models and tools that enhance decision-making, reduce inefficiencies, and generate measurable value.
 
-## ⚡️ Tech Stack & Core Competencies
+## 💻 Tech Stack & Core Competencies
 
- **Data Science & Machine Learning**
-  
-  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+###  ⚡️ Technologies & Frameworks
+- **Data Science & Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
+- **Big Data & Data Engineering**: Apache Spark, Kafka, Apache Nifi, ElasticSearch, Kibana, MongoDB
+- **MLOps & DevOps**: MLflow, GitHub Actions CI/CD, Docker
+- **AI**: Langchain, ChromaDB, HuggingFace Transformers
 
- **Big & Data Engineering**
-  
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-  ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-231F20?style=for-the-badge&logo=apache-nifi&logoColor=white)
-  ![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### ☁️ Cloud Platforms
+- **Hugging Face**: Dataset, Model & Space for Collections
+- **Amazon Web Services (AWS)**: ECR, ECS, Secrets
+- **Google Cloud Platform (GCP)**: Data Warehouse, BigQuery, ML services, Looker Studio
+- **Microsoft Azure**: DataLake, Data Warehouse, Virtual Machines, Pipelines, Power BI
 
- **MLOps & DevOps**
-  
-  ![MLflow](https://img.shields.io/badge/MLflow-%23d966ff.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-**Cloud Platforms**
-
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-## 💻 Abilities & Skills
--  **Data Science & Machine Learning**: *Building and deploying models to drive actionable insights.*
--  **Artificial Intelligence & Deep Learning**: *Implementing neural networks and advanced AI architectures.*
--  **Software Development & Cloud Computing**: *Development with a focus on cloud deployment for scalability.*
--  **MLOps (Machine Learning Operations)**: *End-to-end machine learning pipelines and CI/CD for robust model lifecycle management.*
--  **Data Engineering & Big Data**: *Creation of optimized data flows and infrastructure using big data tools and cloud solutions.*
-
+### ⚙️ Abilities & Skills
+1. **Data Science & Machine Learning**: Building and deploying models to drive actionable insights.
+2. **Artificial Intelligence & Deep Learning**: Implementing neural networks and advanced AI architectures.
+3. **Software Development & Cloud Computing**: Development with a focus on cloud deployment for scalability.
+4. **MLOps (Machine Learning Operations)**: End-to-end machine learning pipelines and CI/CD for robust model lifecycle management.
+5. **Data Engineering & Big Data**: Creation of optimized data flows and infrastructure using big data tools and cloud solutions.
 ## 🌊 Future Exploration Areas
 As a lifelong learner, I'm exploring the impact of blockchain on decentralization and secure data transfer, and quantum computing for faster, more accurate predictive models in complex systems.
 
