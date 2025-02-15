@@ -1,4 +1,4 @@
-# Hello! 👾 I'm @mriusero
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF00&width=435&lines=Hello!+%F0%9F%91%BE+I'm+%40mriusero)](https://git.io/typing-svg)
 
 I'm a **general engineer**, **data scientist**, and **developer** passionate about crafting impactful, scalable solutions that drive real-world impact and innovation. My journey began in the aerospace industry, where I honed my skills in industrialization and project management. Driven by curiosity, I ventured into data science and software development, now specializing in creating data-driven solutions to optimize operations and enhance everyday life.
 
@@ -61,5 +61,3 @@ As a lifelong learner, I'm exploring the impact of blockchain on decentralizatio
 I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights—let’s connect!
 
 **Fun Fact**: I'm a huge fan of **Formula 1** and **aerospace** in general. I love the thrill of speed and the precision of engineering that goes into creating these incredible machines.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=66FF00&width=435&lines=Thanks+for+visiting+my+profile+!)](https://git.io/typing-svg)
