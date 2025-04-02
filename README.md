@@ -1,45 +1,39 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF00&width=435&lines=Hello!+%F0%9F%91%BE+I'm+%40mriusero)](https://git.io/typing-svg)
 
-I'm a **general engineer**, **data scientist**, and **developer** passionate about crafting impactful, scalable solutions that drive real-world impact and innovation. My journey began in the aerospace industry, where I honed my skills in industrialization and project management. Driven by curiosity, I ventured into data science and software development, now specializing in creating data-driven solutions to optimize operations and enhance everyday life.
+I'm an **Engineer** and **Developer** working as a freelancer. My journey started in the aerospace industry, where I refined my skills in industrialization and project management. Driven by curiosity, I transitioned into data science and software development to create impactful, scalable solutions that drive real-world impact and innovation.
 
-| Stats | Contributions | Langs
-| ------------- | ------------ | --------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriusero&theme=chartreuse_dark" alt="GitHub Contributions"> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook,html,css)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/mriusero">
+    <img height=300 style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mriusero">
+    <img height=300 style="flex: 1;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriusero&theme=chartreuse_dark" alt="GitHub Contributions" />
+  </a>
+  <a href="https://github.com/mriusero">
+    <img height=300 style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook,html,css" alt="Top Langs" />
+  </a>
+</div>
 
-## 🛠 Expertise in Engineering & Project Management
+[![HuggingFace](https://img.shields.io/badge/SEE%20ON%20Hugging%20Face-FFD00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mriusero)
 
-- **Industrialization**: Developed tooling and processes, mastered variability with 6 Sigma methodologies.
-- **Project Management**: Coordinated projects focusing on industrialization and production efficiency, including workshop design, activity transfer, and electrical engine development.
-- **Team Leadership**: Led international teams to oversee the externalization of training and documentation products, ensuring compliance with S1000D standards.
-- **Technical Compliance**: Aligned XML digital deliveries with customers specifications, achieving high-quality outputs through efficient teamwork.
+## ⚡️ Technologies, Frameworks and Skills
 
-## 🥷🏼 Transition to Data Science & Software Development
-Driven by a deep interest in **data-driven** innovation, I evolved to data science and software development to address modern industry challenges. This dual expertise allows me to create solutions that merge **operational rigor** with **analytical power**. By applying data science with industrialization knowledges, I develop models and tools that enhance decision-making, reduce inefficiencies, and generate measurable value.
+- **Data Processing & Visualization**: Utilizing Numpy, Pandas, Apache Spark, Scala, Scipy, Statsmodel, Matplotlib, Seaborn, Dash Plotly, Power BI, Streamlit, and Looker Studio for comprehensive data analysis and visualization.
 
-## 💻 Tech Stack & Core Competencies
 
-###  ⚡️ Technologies & Frameworks
-- **Data Science & Machine Learning**: Scikit-learn, TensorFlow, Keras, Pytorch
-- **Big Data & Data Engineering**: Apache Spark, Kafka, Apache Nifi, ElasticSearch, Kibana, MongoDB
-- **MLOps & DevOps**: MLflow, GitHub Actions CI/CD, Docker
-- **AI**: Langchain, ChromaDB, HuggingFace Transformers
+- **Machine Learning & AI**: Building and deploying models using Scikit-learn, NLTK, SpaCy, TensorFlow, Keras, PyTorch, HuggingFace, and Optuna to drive actionable insights and implement advanced AI architectures.  
 
-### ☁️ Cloud Platforms
-- **Hugging Face**: Dataset, Model & Space for Collections
-- **Amazon Web Services (AWS)**: ECR, ECS, Secrets
-- **Google Cloud Platform (GCP)**: Data Warehouse, BigQuery, ML services, Looker Studio
-- **Microsoft Azure**: DataLake, Data Warehouse, Virtual Machines, Pipelines, Power BI
 
-### ⚙️ Abilities & Skills
-1. **Data Science & Machine Learning**: Building and deploying models to drive actionable insights.
-2. **Artificial Intelligence & Deep Learning**: Implementing neural networks and advanced AI architectures.
-3. **Software Development & Cloud Computing**: Development with a focus on cloud deployment for scalability.
-4. **MLOps (Machine Learning Operations)**: End-to-end machine learning pipelines and CI/CD for robust model lifecycle management.
-5. **Data Engineering & Big Data**: Creation of optimized data flows and infrastructure using big data tools and cloud solutions.
-## 🌊 Future Exploration Areas
-As a lifelong learner, I'm exploring the impact of blockchain on decentralization and secure data transfer, and quantum computing for faster, more accurate predictive models in complex systems.
+- **Database & Search**: Managing data with SQL, MongoDB, Neo4j, Google BigQuery, ChromaDB, Apache Nifi, Kafka, ElasticSearch, and Kibana for efficient data storage, retrieval, and analysis.  
+
+
+- **Cloud & DevOps**: Leveraging Docker, AWS, GCP, Microsoft Azure, Git, GitHub Actions, and MLflow for robust cloud deployment, scalability, and end-to-end machine learning pipelines.  
+
+
+---
 
 ## 👾️ Let's Connect!
 I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights—let’s connect!
 
 **Fun Fact**: I'm a huge fan of **Formula 1** and **aerospace** in general. I love the thrill of speed and the precision of engineering that goes into creating these incredible machines.
+
