@@ -1,20 +1,32 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF00&width=435&lines=Hello!+%F0%9F%91%BE+I'm+%40mriusero)](https://git.io/typing-svg)
 
+[![HuggingFace](https://img.shields.io/badge/SEE%20ON%20Hugging%20Face-FFD00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mriusero)
+
 I'm an **Engineer** and **Developer** working as a freelancer. My journey started in the aerospace industry, where I refined my skills in industrialization and project management. Driven by curiosity, I transitioned into data science and software development to create impactful, scalable solutions that drive real-world impact and innovation.
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/mriusero">
-    <img height=300 style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mriusero">
-    <img height=300 style="flex: 1;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriusero&theme=chartreuse_dark" alt="GitHub Contributions" />
-  </a>
-  <a href="https://github.com/mriusero">
-    <img height=300 style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook,html,css" alt="Top Langs" />
-  </a>
-</div>
+---
 
-[![HuggingFace](https://img.shields.io/badge/SEE%20ON%20Hugging%20Face-FFD00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mriusero)
+<table style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <a href="https://github.com/mriusero">
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/mriusero">
+        <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriusero&theme=chartreuse_dark" alt="GitHub Contributions" />
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/mriusero">
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook,html,css" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## ⚡️ Technologies, Frameworks and Skills
 
@@ -28,7 +40,6 @@ I'm an **Engineer** and **Developer** working as a freelancer. My journey starte
 
 
 - **Cloud & DevOps**: Leveraging Docker, AWS, GCP, Microsoft Azure, Git, GitHub Actions, and MLflow for robust cloud deployment, scalability, and end-to-end machine learning pipelines.  
-
 
 ---
 
