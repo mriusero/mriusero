@@ -2,6 +2,8 @@
 
 [![HuggingFace](https://img.shields.io/badge/SEE%20ON%20Hugging%20Face-FFD00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mriusero)
 
+![](https://komarev.com/ghpvc/?username=mriusero&style=pixel)
+
 I'm an **Engineer** and **Developer** working as a freelancer. My journey started in the aerospace industry, where I refined my skills in industrialization and project management. Driven by curiosity, I transitioned into data science and software development to create impactful, scalable solutions that drive real-world impact and innovation.
 
 ---
