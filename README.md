@@ -5,29 +5,17 @@
 
 I'm an **Engineer** and **Developer** working as a freelancer. My journey started in the aerospace industry, where I refined my skills in industrialization and project management. Driven by curiosity, I transitioned into data science and software development to create impactful, scalable solutions that drive real-world impact and innovation.
 
----
-
-<table style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <a href="https://github.com/mriusero">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/mriusero">
-        <img height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriusero&theme=chartreuse_dark" alt="GitHub Contributions" />
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/mriusero">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook,html,css" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/mriusero">
+    <img height=100 src="https://github-readme-stats.vercel.app/api?username=mriusero&show_icons=true&theme=chartreuse-dark&hide_border=True" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mriusero">
+    <img height=100 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriusero&theme=chartreuse_dark&hide_border=True" alt="GitHub Contributions" />
+  </a>
+  <a href="https://github.com/mriusero">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriusero&layout=compact&theme=chartreuse-dark&hide_border=True&hide=Jupyter%20Notebook,html,css" alt="Top Langs" />
+  </a>
+</div>
 
 ## ⚡️ Technologies, Frameworks and Skills
 
@@ -42,7 +30,6 @@ I'm an **Engineer** and **Developer** working as a freelancer. My journey starte
 
 - **Cloud & DevOps**: Leveraging Docker, AWS, GCP, Microsoft Azure, Git, GitHub Actions, and MLflow for robust cloud deployment, scalability, and end-to-end machine learning pipelines.  
 
----
 
 ## 👾️ Let's Connect!
 I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights—let’s connect!
