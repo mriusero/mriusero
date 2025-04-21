@@ -17,19 +17,36 @@ I'm an **Engineer** and **Developer** working as a freelancer. My journey starte
   </a>
 </div>
 
-## ⚡️ Technologies, Frameworks and Skills
+## ⚡️ Technologies, Frameworks, and Skills
 
-- **Data Processing & Visualization**: Utilizing Numpy, Pandas, Apache Spark, Scala, Scipy, Statsmodel, Matplotlib, Seaborn, Dash Plotly, Power BI, Streamlit, and Looker Studio for comprehensive data analysis and visualization.
+### 🧬 Data Science and Machine Learning
+I leverage advanced data science and machine learning techniques to transform raw data into actionable insights:
+- **Machine Learning**: applying classification algorithms or survival analysis to solve complex prediction problems.
+- **NLP**: utilizing frameworks like SpaCy or DistilBERT for sentiment analysis, document retrieval, and pattern detection.
+- **Data Visualization**: creating intuitive and interactive dashboards using Matplotlib, Seaborn, or Plotly to communicate insights effectively.
 
+### 🛠️ DevOps and Cloud Engineering
+I specialize in automating and optimizing deployment processes using cutting-edge DevOps practices:
+- **CI/CD Pipelines**: implementing efficient CI/CD pipelines with GitHub Actions and Docker for seamless integration and deployment.
+- **Cloud Deployment**: deploying applications on AWS, Azure, and GCP, ensuring scalability and security, or using Hugging Face for POC sharing.
+- **Dependencies**: using tools for dependency management in large scale of environment.
 
-- **Machine Learning & AI**: Building and deploying models using Scikit-learn, NLTK, SpaCy, TensorFlow, Keras, PyTorch, HuggingFace, and Optuna to drive actionable insights and implement advanced AI architectures.  
+### 🔭 Data Engineering and Analysis
+My skills in data engineering and analysis enable me to handle large-scale data processing and real-time analytics:
+- **Big Data Tools**: utilizing Apache Spark, Kafka, and Elasticsearch for efficient data processing and streaming.
+- **ETL Pipelines**: designing and implementing ETL pipelines for data extraction, transformation, and loading into data warehouse or datalake.
+- **Real-Time Data Analysis**: developing real-time data analysis platforms using Kafka, NiFi, and Kibana for real-time monitoring.
 
+### ✨ AI and Generative AI
+I am proficient in developing AI agents and leveraging generative AI techniques to create innovative solutions:
+- **Generative AI**: applying techniques such as Retrieval-Augmented Generation (RAG) for context-enhanced AI applications.
+- **AI Agents**: developing AI agents using state-of-the-art tools and frameworks to automate tasks and enhance decision-making processes.
 
-- **Database & Search**: Managing data with SQL, MongoDB, Neo4j, Google BigQuery, ChromaDB, Apache Nifi, Kafka, ElasticSearch, and Kibana for efficient data storage, retrieval, and analysis.  
-
-
-- **Cloud & DevOps**: Leveraging Docker, AWS, GCP, Microsoft Azure, Git, GitHub Actions, and MLflow for robust cloud deployment, scalability, and end-to-end machine learning pipelines.  
-
+### ⚙️ Backend Development
+My backend development skills focus on creating robust and scalable server-side solutions:
+- **API Integration**: integrating APIs like Arxiv, Google Vision API, Etherscan or others for enhanced functionalities.
+- **Database Management**: proficient in managing databases such as PostgreSQL, Neo4j, MongoDB, or ChromaDB for efficient data storage and retrieval.
+- **Microservices Architecture**: designing and implementing microservices architecture for scalable and maintainable backend solutions.
 
 ## 👾️ Let's Connect!
 I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights—let’s connect!
