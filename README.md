@@ -17,39 +17,20 @@ I'm an **Engineer** and **Developer** working as a freelancer. My journey starte
   </a>
 </div>
 
-## ⚡️ Technologies, Frameworks, and Skills
+### ⚡️ Technical Skills & Stack
 
-### 🧬 Data Science and Machine Learning
-I leverage advanced data science and machine learning techniques to transform raw data into actionable insights:
-- **Machine Learning**: applying classification algorithms or survival analysis to solve complex prediction problems.
-- **NLP**: utilizing frameworks like SpaCy or DistilBERT for sentiment analysis, document retrieval, and pattern detection.
-- **Data Visualization**: creating intuitive and interactive dashboards using Matplotlib, Seaborn, or Plotly to communicate insights effectively.
+I design and implement scalable, data-driven, and AI-powered solutions, combining strong engineering foundations with advanced machine learning capabilities.  
 
-### 🛠️ DevOps and Cloud Engineering
-I specialize in automating and optimizing deployment processes using cutting-edge DevOps practices:
-- **CI/CD Pipelines**: implementing efficient CI/CD pipelines with GitHub Actions and Docker for seamless integration and deployment.
-- **Cloud Deployment**: deploying applications on AWS, Azure, and GCP, ensuring scalability and security, or using Hugging Face for POC sharing.
-- **Dependencies**: using tools for dependency management in large scale of environment.
+- **Data Science, Machine Learning & Deep Learning:** applied machine learning (classification, survival models), NLP (SpaCy, Transformer-based models), Neural networks (LSTM, CNN, ResNet with Tensorflow, Pytorch) and interactive data visualization (Matplotlib, Seaborn, Plotly).
 
-### 🔭 Data Engineering and Analysis
-My skills in data engineering and analysis enable me to handle large-scale data processing and real-time analytics:
-- **Big Data Tools**: utilizing Apache Spark, Kafka, and Elasticsearch for efficient data processing and streaming.
-- **ETL Pipelines**: designing and implementing ETL pipelines for data extraction, transformation, and loading into data warehouse or datalake.
-- **Real-Time Data Analysis**: developing real-time data analysis platforms using Kafka, NiFi, and Kibana for real-time monitoring.
+- **AI & Autonomous Agents:** development of AI agents and LLM-based applications, leveraging frameworks for RAG implementation, custom chain-of-thoughts design and integrating tools with MCP Servers.
 
-### ✨ AI and Generative AI
-I am proficient in developing AI agents and leveraging generative AI techniques to create innovative solutions:
-- **Generative AI**: applying techniques such as Retrieval-Augmented Generation (RAG) for context-enhanced AI applications.
-- **AI Agents**: developing AI agents using state-of-the-art tools and frameworks to automate tasks and enhance decision-making processes.
+- **Data & Cloud Engineering:** building robust data pipelines and real-time processing platforms with tools like Apache Spark, Kafka, and Elasticsearch. Experienced in deploying services on AWS, Azure, GCP, and Hugging Face.
 
-### ⚙️ Backend Development
-My backend development skills focus on creating robust and scalable server-side solutions:
-- **API Integration**: integrating APIs like Arxiv, Google Vision API, Etherscan or others for enhanced functionalities.
-- **Database Management**: proficient in managing databases such as PostgreSQL, Neo4j, MongoDB, or ChromaDB for efficient data storage and retrieval.
-- **Microservices Architecture**: designing and implementing microservices architecture for scalable and maintainable backend solutions.
+- **DevOps & Backend Development:** implementation of CI/CD pipelines (GitHub Actions, Docker), API integration, and database management (PostgreSQL, Neo4j, MongoDB, ChromaDB).
 
-## 👾️ Let's Connect!
-I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights—let’s connect!
+### 👾️ Let's Connect!
+I'm always excited to connect with others who are passionate about tech and innovation. Whether you're interested in collaboration, exploring new ideas, or just sharing insights, let’s connect!
 
 **Fun Fact**: I'm a huge fan of **Formula 1** and **aerospace** in general. I love the thrill of speed and the precision of engineering that goes into creating these incredible machines.
 
